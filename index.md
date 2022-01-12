@@ -134,12 +134,22 @@ I know how to use project planning tools in teams but I use post-it notes for my
   Other Projects
   </p>
 </h2>
-Projects that didn't make the cut of being at the top.
 
-![Mosaic](/assets/images/mosaic.png)
+Projects that didn't make it to the top of the page.
+
+![Rock Paper Scissors Royale](/assets/images/rpsr.png)
 ```
-Length: 2016-2018
-Role: Programmer & Lead Programmer
+Status: Work in progress
+Company: Spillkaminen
+When: 2021-2022
+Role: Owner
 ```
-Mosaic is a weird dystopian story game about not wanting to go to work. I took over the role as Lead Programmer in 2017 and made several core additions to the codebase as well as managing multiple team members and planning. 
+Rock Paper Scissors Royale is a simple battle royale game with simple rules that doesn't require a lot of explaination. You are made out of rock, paper or scissors. When you touch something you can beat you become that new type. Fight your way to the center and become the last player standing. This game is made with Open Netcode, the networking library I've made.
 <hr> 
+![Floggy](/assets/images/floggy.png)
+```
+Status: Released on Google Play. Removed by Google because app requirements changed.
+When: 2015
+Role: Programmer
+```
+Floggy was originally an one hour game jam project that turned into two days when we realized how fun it was to play. You control a sausage-creature in a downwards adventure to escape the squares chasing you from above. Get as far as possible. I coded the main thing and made sounds by slapping wet toilet paper. 
