@@ -62,7 +62,7 @@ C/C++
 </h2>
 I haven't touched this in a couple of years but for the first 6 years this was the main language I did projects with. I used a bunch of libraries like boost, SFML, Box2D, glew, json-spirit and learned how absolutely awful it was to deal with project dependencies. It was the language that taught me about memory usage, stack vs heap and how pointers work. My biggest project in this language was a game made in school using an 
 <a href="https://github.com/ptrefall/propcomp">Entity Component Library by Pål Trefall</a>
-and SFML.
+, SFML and Box2D.
 
 <h2>
 Networking in Games
