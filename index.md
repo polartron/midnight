@@ -43,7 +43,7 @@ Company: DOS Studios
 Length: 2013-2015
 Role: Programmer & CEO
 ```
-Size DOES Matter is a mobile game about rhythmically fitting inside different sized holes. We won a BAFTA for this one, got published by Channel 4 and had a month of free TV ads on UK television.
+Size DOES Matter is a mobile game about rhythmically fitting inside different sized holes. We won a BAFTA for this one, got published by Channel 4 and had a month of free ads on UK television.
 <hr> 
 <br/>
 <h2>
@@ -128,8 +128,18 @@ Project Planning
 </h3>
 I know how to use project planning tools in teams but I use post-it notes for my own projects. Whatever type of project planning tools you use I probably know how to use them, maybe even intuitively, because I've been through a lot of them. Jira is the biggest one. In realty most of project planning tools gets in the way of actual development and progress so I try to be extremely pragmatic about it and only use what helps development. In most cases that is just a task list. Github Issues is great.
 
+<hr>
 <h2>
   <p align="center">
   Other Projects
   </p>
 </h2>
+Projects that didn't make the cut of being at the top.
+
+![Mosaic](/assets/images/mosaic.png)
+```
+Length: 2016-2018
+Role: Programmer & Lead Programmer
+```
+Mosaic is a weird dystopian story game about not wanting to go to work. I took over the role as Lead Programmer in 2017 and made several core additions to the codebase as well as managing multiple team members and planning. 
+<hr> 
