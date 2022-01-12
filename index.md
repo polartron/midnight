@@ -23,16 +23,17 @@ Open Netcode is a server authoritative networking package for Unity DOTS. It con
 
 ![Rock Paper Scissors Royale](/assets/images/rpsr.png)
 ```
-Name: Open Netcode
+Name: Rock Paper Scissors Royale
 Status: Work in progress
 Company: Spillkaminen
 When: 2021-2022
 Role: Owner
 ```
-Rock Paper Scissors Royale is a simple battle royale game with simple rules. You are made out of rock, paper or scissors. When you touch something you can beat you become that new type. Fight your way to the center and become the last player standing. This game is made with Unity DOTS using Open Netcode, the networking library I've made.
+Rock Paper Scissors Royale is a simple battle royale game with simple rules. You are made out of rock, paper or scissors. When you touch something you can beat you become that new type. Fight your way to the center and become the last player standing. This game is made with Unity DOTS using Open Netcode.
 <hr> 
 ![Mosaic](/assets/images/mosaic.png)
 ```
+Name: Mosaic
 Status: Released
 Company: Krillbite Studio
 Length: 2016-2018
@@ -43,6 +44,7 @@ Mosaic is a weird dystopian story game about not wanting to go to work. I took o
 
 ![Among the Sleep](/assets/images/amongthesleep.png)
 ```
+Name: Among the Sleep
 Status: Released
 Company: Krillbite Studio
 Length: 2015-2016
@@ -53,6 +55,7 @@ Among the Sleep is a horror game where you play as a two year old child and your
 
 ![Size DOES Matter](/assets/images/sizedoesmatter.png)
 ```
+Name: Size DOES Matter
 Status: Released. Removed from app stores when company shut down.
 Company: DOS Studios
 Length: 2013-2015
