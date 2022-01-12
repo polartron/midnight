@@ -4,9 +4,11 @@ layout: default
 It all started with a Counter Strike 1.6 server in 2005. From there until now I've modded, mapped, scripted, tinkered, programmed and released some games. Here are some things I've made.
 <hr>
 
-<p align="center">
-<h2>Main Projects</h2>
-</p>
+<h2>
+  <p align="center">
+  Main Projects
+  </p>
+</h2>
 
 ![Open Netcode](/assets/images/netcode.png)
 ```
@@ -48,9 +50,9 @@ Size DOES Matter is a mobile game about rhythmically fitting inside different si
 <br/>
 <br/>
 <br/>
-
-<p align="center">
-<h2>My Skills</h2>
-</p>
-
+<h2>
+  <p align="center">
+  My Skills
+  </p>
+</h2>
 asdfsdfsadfdsafsd
