@@ -67,18 +67,21 @@ and SFML.
 <h2>
 Networking in Games
 </h2>
-I have in depth knowledge of how the network stack works down to how diffent types of packet headers are structured. I can tell you how TCP differs from UDP and why UDP is required for high frequency multiplayer games. I've used tools like Wireshark, wpe-pro and XVI32 to reverse engineer the network protocol in the early days of Minecraft to make sponge spawning spambots back when creative mode was a thing. I've used jittering, congestion and lag-switching to gain an unfair advantage (for research purposes) in games like Planetside 2, Darkfall Online and other games that use *Clientside Authority* and/or *State Synchronization*. I know and have implemented techniques like delta compression and clientside prediction. This is my main area of interest and I will keep expanding my knowledge by studying how great netcode is written to how bad netcode can be exploited.
+I have in depth knowledge of how the network stack works down to how diffent types of packet headers are structured. I can tell you how TCP differs from UDP and why UDP is required for high frequency multiplayer games. I've used tools like Wireshark, wpe-pro and XVI32 to reverse engineer the network protocol in the early days of Minecraft to make sponge spawning spambots back when creative mode was a thing. I've used jittering, congestion and lag-switching to gain an unfair advantage (for research purposes) in games like Planetside 2, Darkfall Online and other games that use *Clientside Authority* and/or *State Synchronization*. I know and have implemented techniques like delta compression and clientside prediction. I will keep expanding my knowledge by studying how great netcode is written and how bad netcode can be exploited (again, for research purposes).
 
 <h2>
   <p align="center">
-  Other skills
+  Other Skills
   </p>
 </h2>
 <hr> 
-<br/>
-
 Here's some other things than I know how to do.
 <br/>
+
+<h3>
+Unit Testing
+</h3> 
+I like to write Unit Tests where it makes sense to write them. Procedural Programming is by default very open to unit testing, but sometimes an integration test (or just watching the thing work) is enough. Pragmatic where it makes sense. Don't overdo it, but don't be fully exposed to regression either.
 
 <h3>
 Lua
@@ -90,18 +93,15 @@ Python
 </h3>
 I can write and modify simple scripts. I've used this to make a Raspberry PI powered robot on wheels back in 2015 and I've messed around with tensorflow for machine learning. 
 
-
 <h3>
 Javascript
 </h3>
-I've made some scripts with Tampermonkey and NodeJS. I made an arbitrage trading bot for a Dota 2 trading website back in 2014 and a crypto arbitrage trading bot for an exchange without a trading API in 2020. When I worked in Krillbite I made a simple web server using express in node to collect editor, screenshots and performance logs when working on Mosaic.
+I've made some scripts with Tampermonkey and Node. I made an arbitrage trading bot for a Dota 2 trading website back in 2014 and a crypto arbitrage trading bot for an exchange without a trading API in 2020. When I worked in Krillbite I made a simple web server using express in node to collect editor, screenshots and performance logs when working on Mosaic.
 
 <h3>
 Shaders
 </h3>
 I've written a few shaders. Most of them are technical shaders like using double buffering for water and melting snow, metaballs, or instancing of objects using compute buffers. I'm not so good at making things look pretty but I'm not calling myself an artist. 
-
-
 
 <h3>
 Teaching
@@ -113,5 +113,18 @@ Presenting
 </h3> 
 Over the years I've done numerous talks on different topics including project scoping, idea development and data oriented programming.
 
+<h3>
+Source Control
+</h3>
+I know git. I managed a Synology NAS with GitLab for Krillbite and I've used git for most of my projects. I know about the other source control tools like Perforce, SVN, Plastic SCM and how they work but I haven't used them for big projects.
 
+<h3>
+Project Planning
+</h3>
+I know how to use project planning tools in teams but I use post-it notes for my own projects. I know how to estimate my tasks and make the project manager happy at the beginning of the sprint. Whatever type of project planning methods you use I probably know how to use it. In realty most of project planning tools gets in the way of actual development and progress so I try to be extremely pragmatic about it and only use what brings the project forward. In most cases that is just a task list. Github Issues is great.
 
+<h2>
+  <p align="center">
+  Other Projects
+  </p>
+</h2>
