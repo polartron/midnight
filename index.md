@@ -162,7 +162,7 @@ I know how to use project planning tools in teams but I use post-it notes for my
   </p>
 </h2>
 
-Projects that didn't make it to the top of the page.
+I have made other projects too. 
 
 <hr> 
 ```
