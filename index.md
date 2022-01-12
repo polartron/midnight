@@ -2,7 +2,7 @@
 layout: default
 ---
 
-BAFTA winning game developer with a great range of programming experience. Loves Procedural Programming and getting things done.<br>8+ years of experience working in the games industry with several released titles and awards.<br>15+ years of experience modding, mapping, scripting and having fun.
+It all started with a Counter Strike 1.6 server in 2005. From there until now I've modded, mapped, scripted, tinkered, programmed and released a bunch of games. Here's a bunch of things I've made. Hire me.
 
 # Projects
 
