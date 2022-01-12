@@ -1,3 +1,6 @@
+---
+layout: default
+---
 It all started with a Counter Strike 1.6 server in 2005. From there until now I've modded, mapped, scripted, tinkered, programmed and released some games. Here's some things I've made. Hire me.
 <hr>
 ![Open Netcode](/assets/images/netcode.png)
