@@ -12,6 +12,8 @@ It all started with a Counter Strike 1.6 server in 2005. From there until now I'
 
 ![Open Netcode](/assets/images/netcode.png)
 ```
+Name: Open Netcode
+Status: Work in progress
 Company: Spillkaminen
 Length: 2020-2022
 Role: Owner
@@ -19,8 +21,19 @@ Role: Owner
 Open Netcode is a server authoritative networking package for Unity DOTS. It contains most of the knowledge I've learned over the years from studying Source Engine, Overwatch, Rocket League and countless articles and videos on the subject. It is the core package for best-practice multiplayer games made by Spillkaminen.
 <hr> 
 
+![Rock Paper Scissors Royale](/assets/images/rpsr.png)
+```
+Name: Open Netcode
+Status: Work in progress
+Company: Spillkaminen
+When: 2021-2022
+Role: Owner
+```
+Rock Paper Scissors Royale is a simple battle royale game with simple rules. You are made out of rock, paper or scissors. When you touch something you can beat you become that new type. Fight your way to the center and become the last player standing. This game is made with Unity DOTS using Open Netcode, the networking library I've made.
+<hr> 
 ![Mosaic](/assets/images/mosaic.png)
 ```
+Status: Released
 Company: Krillbite Studio
 Length: 2016-2018
 Role: Programmer & Lead Programmer
@@ -30,6 +43,7 @@ Mosaic is a weird dystopian story game about not wanting to go to work. I took o
 
 ![Among the Sleep](/assets/images/amongthesleep.png)
 ```
+Status: Released
 Company: Krillbite Studio
 Length: 2015-2016
 Role: Programmer
@@ -39,6 +53,7 @@ Among the Sleep is a horror game where you play as a two year old child and your
 
 ![Size DOES Matter](/assets/images/sizedoesmatter.png)
 ```
+Status: Released. Removed from app stores when company shut down.
 Company: DOS Studios
 Length: 2013-2015
 Role: Programmer & CEO
@@ -137,14 +152,6 @@ I know how to use project planning tools in teams but I use post-it notes for my
 
 Projects that didn't make it to the top of the page.
 
-![Rock Paper Scissors Royale](/assets/images/rpsr.png)
-```
-Status: Work in progress
-Company: Spillkaminen
-When: 2021-2022
-Role: Owner
-```
-Rock Paper Scissors Royale is a simple battle royale game with simple rules that doesn't require a lot of explaination. You are made out of rock, paper or scissors. When you touch something you can beat you become that new type. Fight your way to the center and become the last player standing. This game is made with Open Netcode, the networking library I've made.
 <hr> 
 ![Floggy](/assets/images/floggy.png)
 ```
