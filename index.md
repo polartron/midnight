@@ -55,4 +55,17 @@ Size DOES Matter is a mobile game about rhythmically fitting inside different si
   My Skills
   </p>
 </h2>
-asdfsdfsadfdsafsd
+
+<h2>
+C#
+</h2>
+My main language of choice and the one I'm the most proficient in. I've gone through all the different stages of not knowing enough, to knowing a lot of *coding principles* and overengineering my code, to landing on a more data oriented approach with procedural programming techniques. My current method of writing code in C# is to focus on the data transformation aspect of it and using object oriented programming as a support structure and a facade to keep the code flat, pragmatic and easy to use by the client.
+
+<h2>
+C++
+</h2>
+I haven't touched this in a couple of years but for 6 years this was the main language I made games with.
+
+
+Teaching. I taught two college semesters of **Introduction to C# in Unity**. I can do workshops too.
+Presenting. Over the years I've done numerous talks on different topics including project scoping and idea development. 
