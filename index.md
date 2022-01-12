@@ -73,7 +73,7 @@ Size DOES Matter is a mobile game about rhythmically fitting inside different si
 <h2>
 C#
 </h2>
-My main language of choice and the one I'm the most proficient in. I've gone through all the different stages of writing bad code, to knowing a lot of *coding principles* and overengineering my code, to landing on a more data oriented approach with procedural programming techniques. My current method of writing code in C# is to focus on the data transformation aspect of it and using object oriented programming as a support structure and a facade in order to keep the code flat, pragmatic and easy to use.
+My main language of choice and the one I'm the most proficient in. I've gone through all the different stages of writing bad code, to knowing a lot of *coding principles* and overengineering my code, to finally landing on a more data oriented approach with procedural programming techniques. My current method of writing code in C# is to focus on the data transformation aspect of it and using object oriented programming as a support structure and a facade in order to keep the code flat, pragmatic and easy to use.
 
 <h2>
 C/C++
