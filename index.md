@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-It all started with a Counter Strike 1.6 server in 2005. From there until now I've modded, mapped, scripted, tinkered, programmed and released some games. Here are some things I've made.
+It all started with a Counter Strike 1.6 server in 2005. From there until now I've modded, mapped, scripted, tinkered, programmed and released some games. Here are some things I've worked on.
 <hr>
 
 <h2>
@@ -93,7 +93,7 @@ I have in depth knowledge on how the networking stack works down to how diffent 
   </p>
 </h2>
 <hr> 
-Here's some other things than I know how to do.
+Here are some other less important skills I have
 <br/>
 
 <h3>
@@ -127,6 +127,16 @@ Shaders
 I've written a few shaders. Most of them are technical shaders like using double buffering for water and melting snow, metaballs, or instancing of objects using compute buffers. I'm not so good at making things look pretty but I'm not calling myself an artist. 
 
 <h3>
+Databases
+</h3>
+In high school and college I learned how MySQL works and how to write queries with PHP. I've used SQLite for some projects and I know how how to do simple things in phpmyadmin.
+
+<h3>
+Encryption
+</h3>
+I wrote an RSA encrypted login server in college and went really deep into learning the mathematics of it. Today I slap OpenSSL on top of projects or use a third party authentication service like OAuth. 
+
+<h3>
 Teaching
 </h3>
 I've taught two college semesters of **Introduction to C# in Unity**. I've done workshops too.
@@ -156,11 +166,33 @@ I know how to use project planning tools in teams but I use post-it notes for my
 Projects that didn't make it to the top of the page.
 
 <hr> 
+```
+Name: Gas Simulation
+Status: Prototype
+When: 2021
+Role: Programmer
+```
+Inspired by how atmospherics was simulated in Space Station 13 I decided to make my own and try to push the limits on how performant I can make it using Burst Compiled Jobs in Unity. I read up on the Ideal Gas Law, Adiabatic Compression and implemented them as a multithreaded, double buffered atmospheric simulation in Unity. 
+
+<hr> 
+![Floggy](/assets/images/flowfields.png)
+```
+Name: Flow Field Pathfinding
+Status: Prototype
+When: 2019
+Role: Programmer
+```
+I didn't know how flow fields worked so I read up on it and made an asset that converted an Unity Navmesh into a flow field with simple flocking behaviour for agents.
+
+<hr> 
 ![Floggy](/assets/images/floggy.png)
 ```
-Status: Released on Google Play. Removed by Google because app requirements changed.
+Name: Floggy
+Status: Released on Google Play. Decayed and got removed.
 When: 2015
 Role: Programmer
 ```
-Floggy was originally an one hour game jam project that turned into two days when we realized how fun it was to play. You control a sausage-creature in a downwards adventure to escape the squares chasing you from above. Get as far as possible. I wrote most of the code and made sounds by slapping wet toilet paper. 
+Floggy was originally an one hour game jam project that turned into two days when we realized how fun it was. You control a sausage-creature in a downwards adventure to escape the squares chasing you from above. Get as far as possible. I wrote most of the code and made sounds by slapping wet toilet paper. 
+<hr> 
+
 
