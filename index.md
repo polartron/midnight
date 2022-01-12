@@ -84,6 +84,11 @@ Unit Testing
 I like to write Unit Tests where it makes sense to write them. Procedural Programming is by default very open to unit testing, but sometimes an integration test (or just watching the thing work) is enough. Pragmatic where it makes sense. Don't overdo it, but don't be fully exposed to regression either.
 
 <h3>
+Computer Science
+</h3>
+I know how computers work. I know how the CPU accesses memory and how to reduce cache misses in the L1 cache. I know basic assembly code and some of the optimizations you can do in order to produce highly efficent machine code. I've built a rack server back in 2010 for Counter Strike 1.6 which eventually turned into a bitcoin miner.
+
+<h3>
 Lua
 </h3>
 I've made some things in Garry's Mod since 2006 and used Luabind for C++ in college.
@@ -91,12 +96,12 @@ I've made some things in Garry's Mod since 2006 and used Luabind for C++ in coll
 <h3>
 Python
 </h3>
-I can write and modify simple scripts. I've used this to make a Raspberry PI powered robot on wheels back in 2015 and I've messed around with tensorflow for machine learning. 
+I can write and modify simple scripts. In 2015 I used this to make a Raspberry PI powered robot on wheels and in 2019 I messed around with tensorflow for machine learning. 
 
 <h3>
 Javascript
 </h3>
-I've made some scripts with Tampermonkey and Node. I made an arbitrage trading bot for a Dota 2 trading website back in 2014 and a crypto arbitrage trading bot for an exchange without a trading API in 2020. When I worked in Krillbite I made a simple web server using express in node to collect editor, screenshots and performance logs when working on Mosaic.
+I've made some scripts with Tampermonkey and Node. In 2014 I made an arbitrage trading bot for a Dota 2 trading website and in 2020 I made a crypto arbitrage trading bot for an exchange without a trading API. When I worked in Krillbite I made a simple web server using express in node to collect editor, screenshots and performance logs when working on Mosaic.
 
 <h3>
 Shaders
@@ -121,7 +126,7 @@ I know git. I managed a Synology NAS with GitLab for Krillbite and I've used git
 <h3>
 Project Planning
 </h3>
-I know how to use project planning tools in teams but I use post-it notes for my own projects. I know how to estimate my tasks and make the project manager happy at the beginning of the sprint. Whatever type of project planning methods you use I probably know how to use it. In realty most of project planning tools gets in the way of actual development and progress so I try to be extremely pragmatic about it and only use what brings the project forward. In most cases that is just a task list. Github Issues is great.
+I know how to use project planning tools in teams but I use post-it notes for my own projects. Whatever type of project planning methods you use I probably know how to use it, because I've been through a few. Jira is the biggest one. In realty most of project planning tools gets in the way of actual development and progress so I try to be extremely pragmatic about it and only use what helps development. In most cases that is just a task list. Github Issues is great.
 
 <h2>
   <p align="center">
