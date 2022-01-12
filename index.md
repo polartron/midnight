@@ -2,6 +2,8 @@
 layout: default
 ---
 
+BAFTA winning game developer with a great range of programming experience. Loves Procedural Programming and getting things done.<br>8+ years of experience working in the games industry with several released titles and awards.<br>15+ years of experience modding, mapping, scripting and having fun.
+
 # Projects
 
 ![Open Netcode](/assets/img/netcode.png)
