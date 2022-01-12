@@ -44,6 +44,6 @@ Size DOES Matter is a mobile game about rhythmically fitting inside different si
 <br/>
 <br/>
 <br/>
-# My Skills
+<center># My Skills</center>
 
 asdfsdfsadfdsafsd
