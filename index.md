@@ -45,10 +45,6 @@ Role: Programmer & CEO
 ```
 Size DOES Matter is a mobile game about rhythmically fitting inside different sized holes. We won a BAFTA for this one, got published by Channel 4 and had a month of free TV ads on UK television.
 <hr> 
-
-<br/>
-<br/>
-<br/>
 <br/>
 <h2>
   <p align="center">
@@ -71,7 +67,51 @@ and SFML.
 <h2>
 Networking in Games
 </h2>
-I have in depth knowledge of how the network stack works down to how diffent types of packet headers are structured. I can tell you how TCP differs from UDP and why UDP is required for high frequency multiplayer games. I've used tools like Wireshark, wpe-pro and XVI32 to reverse engineer the network protocol in the early days of Minecraft to make sponge spawning spambots back when creative mode was a thing. I've used jittering, congestion and lag-switching to gain an unfair advantage (for research purposes) in games like Planetside 2, Darkfall Online and other games that use *Clientside Authority* and/or *State Synchronization*. I know and have implemented techniques like delta compression and clientside prediction. This is my main area of interest and I will keep expanding my knowledge by studying how great multiplayer games are made.
+I have in depth knowledge of how the network stack works down to how diffent types of packet headers are structured. I can tell you how TCP differs from UDP and why UDP is required for high frequency multiplayer games. I've used tools like Wireshark, wpe-pro and XVI32 to reverse engineer the network protocol in the early days of Minecraft to make sponge spawning spambots back when creative mode was a thing. I've used jittering, congestion and lag-switching to gain an unfair advantage (for research purposes) in games like Planetside 2, Darkfall Online and other games that use *Clientside Authority* and/or *State Synchronization*. I know and have implemented techniques like delta compression and clientside prediction. This is my main area of interest and I will keep expanding my knowledge by studying how great netcode is written to how bad netcode can be exploited.
 
-Teaching. I taught two college semesters of **Introduction to C# in Unity**. I can do workshops too.
-Presenting. Over the years I've done numerous talks on different topics including project scoping and idea development. 
+<h2>
+  <p align="center">
+  Other skills
+  </p>
+</h2>
+<hr> 
+<br/>
+
+Here's some other things than I know how to do.
+<br/>
+
+<h3>
+Lua
+</h3>
+I've made some things in Garry's Mod since 2006 and used Luabind for C++ in college.
+
+<h3>
+Python
+</h3>
+I can write and modify simple scripts. I've used this to make a Raspberry PI powered robot on wheels back in 2015 and I've messed around with tensorflow for machine learning. 
+
+
+<h3>
+Javascript
+</h3>
+I've made some scripts with Tampermonkey and NodeJS. I made an arbitrage trading bot for a Dota 2 trading website back in 2014 and a crypto arbitrage trading bot for an exchange without a trading API in 2020. When I worked in Krillbite I made a simple web server using express in node to collect editor, screenshots and performance logs when working on Mosaic.
+
+<h3>
+Shaders
+</h3>
+I've written a few shaders. Most of them are technical shaders like using double buffering for water and melting snow, metaballs, or instancing of objects using compute buffers. I'm not so good at making things look pretty but I'm not calling myself an artist. 
+
+
+
+<h3>
+Teaching
+</h3>
+I've taught two college semesters of **Introduction to C# in Unity**. I've done workshops too.
+
+<h3>
+Presenting
+</h3> 
+Over the years I've done numerous talks on different topics including project scoping, idea development and data oriented programming.
+
+
+
