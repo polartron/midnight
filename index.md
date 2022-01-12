@@ -34,7 +34,7 @@ Company: DOS Studios
 Length: 2013-2015
 Role: Programmer & CEO
 ```
-A game about rhythmically fitting inside different sized holes. We won a BAFTA for this one, got published by Channel 4 and had a month of free TV ads on
+A game about rhythmically fitting inside different sized holes. We won a BAFTA for this one, got published by Channel 4 and had a month of free TV ads on UK television.
 
 <br/> 
 <hr>
