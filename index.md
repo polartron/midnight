@@ -40,6 +40,10 @@ Role: Programmer & CEO
 Size DOES Matter is a mobile game about rhythmically fitting inside different sized holes. We won a BAFTA for this one, got published by Channel 4 and had a month of free TV ads on UK television.
 <hr> 
 
-<br/> 
-<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+# My Skills
 
+asdfsdfsadfdsafsd
