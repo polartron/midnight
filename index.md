@@ -68,10 +68,5 @@ I haven't touched this in a couple of years but for the first 6 years this was t
 <a href="https://github.com/ptrefall/propcomp">Entity Component Library by Pål Trefall</a>
 and SFML.
 
-<h2>
-
-</h2>
-
-
 Teaching. I taught two college semesters of **Introduction to C# in Unity**. I can do workshops too.
 Presenting. Over the years I've done numerous talks on different topics including project scoping and idea development. 
