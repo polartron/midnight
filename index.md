@@ -2,7 +2,7 @@
 layout: default
 ---
 
-It all started with a Counter Strike 1.6 server in 2005. From there until now I've modded, mapped, scripted, tinkered, programmed and released a bunch of games. Here's a bunch of things I've made. Hire me.
+It all started with a Counter Strike 1.6 server in 2005. From there until now I've modded, mapped, scripted, tinkered, programmed and released some games. Here's some things I've made. Hire me.
 
 # Projects
 
