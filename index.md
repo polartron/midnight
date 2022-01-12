@@ -118,7 +118,7 @@ I can write and modify simple scripts. In 2015 I used this to make a Raspberry P
 <h3>
 Javascript
 </h3>
-I've made some scripts with Tampermonkey and Node. In 2014 I made an arbitrage trading bot for a Dota 2 trading website and in 2020 I made a crypto arbitrage trading bot for an exchange without a trading API. When I worked in Krillbite I made a simple web server using express in node to collect editor, screenshots and performance logs when working on Mosaic.
+I've made some scripts with Tampermonkey and Node. In 2014 I made an arbitrage trading bot for a Dota 2 trading website and in 2020 I made a crypto arbitrage trading bot for an exchange without a trading API. When I worked in Krillbite I made a simple web server using express in node to collect editor logs, screenshots and performance logs when working on Mosaic.
 
 <h3>
 Shaders
@@ -162,24 +162,35 @@ I know how to use project planning tools in teams but I use post-it notes for my
   </p>
 </h2>
 
-I have made other projects too. 
+Less important projects I've worked on.
+
+<hr> 
+![Rainbow](/assets/images/rainbow.png)
+```
+Name: Rainbow
+Company: Krillbite
+Status: Prototype
+When: 2017
+```
+A SpatialOS game made in under a week for a norwegian game jam. It was later used in promotional videos by Improbable to promote their Unity SDK. 
+
+<hr> 
+
 
 <hr> 
 ```
 Name: Gas Simulation
 Status: Prototype
 When: 2021
-Role: Programmer
 ```
 Inspired by how atmospherics was simulated in Space Station 13 I decided to make my own and try to push the limits on how performant I can make it using Burst Compiled Jobs in Unity. I read up on the Ideal Gas Law, Adiabatic Compression and implemented them as a multithreaded, double buffered atmospheric simulation in Unity. 
 
 <hr> 
-![Floggy](/assets/images/flowfields.png)
+![Flow Fields](/assets/images/flowfields.png)
 ```
 Name: Flow Field Pathfinding
 Status: Prototype
 When: 2019
-Role: Programmer
 ```
 I didn't know how flow fields worked so I read up on it and made an asset that converted an Unity Navmesh into a flow field with simple flocking behaviour for agents.
 
@@ -189,7 +200,6 @@ I didn't know how flow fields worked so I read up on it and made an asset that c
 Name: Floggy
 Status: Released on Google Play. Decayed and got removed.
 When: 2015
-Role: Programmer
 ```
 Floggy was originally an one hour game jam project that turned into two days when we realized how fun it was. You control a sausage-creature in a downwards adventure to escape the squares chasing you from above. Get as far as possible. I wrote most of the code and made sounds by slapping wet toilet paper. 
 <hr> 
