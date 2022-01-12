@@ -52,19 +52,25 @@ Size DOES Matter is a mobile game about rhythmically fitting inside different si
 <br/>
 <h2>
   <p align="center">
-  My Skills
+  Main Skills
   </p>
 </h2>
 
 <h2>
 C#
 </h2>
-My main language of choice and the one I'm the most proficient in. I've gone through all the different stages of not knowing enough, to knowing a lot of *coding principles* and overengineering my code, to landing on a more data oriented approach with procedural programming techniques. My current method of writing code in C# is to focus on the data transformation aspect of it and using object oriented programming as a support structure and a facade to keep the code flat, pragmatic and easy to use by the client.
+My main language of choice and the one I'm the most proficient in. I've gone through all the different stages of writing bad code, to knowing a lot of *coding principles* and overengineering my code, to landing on a more data oriented approach with procedural programming techniques. My current method of writing code in C# is to focus on the data transformation aspect of it and using object oriented programming as a support structure and a facade to keep the code flat, pragmatic and easy to use. My 
 
 <h2>
-C++
+C/C++
 </h2>
-I haven't touched this in a couple of years but for 6 years this was the main language I made games with.
+I haven't touched this in a couple of years but for the first 6 years this was the main language I did projects with. I used a bunch of libraries like boost, SFML, Box2D, glew, json-spirit and learned how absolutely awful it was to deal with project dependencies. It was the language that taught me about memory usage, stack vs heap and how pointers work. My biggest project in this language was a game made in school using an 
+<a href="https://github.com/ptrefall/propcomp">Entity Component Library by Pål Trefall</a>
+and SFML.
+
+<h2>
+
+</h2>
 
 
 Teaching. I taught two college semesters of **Introduction to C# in Unity**. I can do workshops too.
