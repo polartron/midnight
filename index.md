@@ -69,7 +69,7 @@ Among the Sleep is a horror game where you play as a two year old child and your
 </div>
 ```
 Name: Size DOES Matter
-Status: Released. Removed from app stores when company shut down.
+Status: Released
 Company: DOS Studios
 When: 2013-2015
 Role: Programmer & CEO
@@ -81,7 +81,6 @@ Size DOES Matter is a mobile game about rhythmically fitting inside different si
   Main Skills
   </p>
 </h2>
-
 <h2>
 C#
 </h2>
