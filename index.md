@@ -22,6 +22,9 @@ Open Netcode is a server authoritative networking package for Unity DOTS. It con
 <hr> 
 
 ![Rock Paper Scissors Royale](/assets/images/rpsr.png)
+<div style="text-align: center">
+  <a href="https://www.youtube.com/watch?v=ch1ElCKoOEo" target="_blank">Video</a>
+</div>
 ```
 Name: Rock Paper Scissors Royale
 Status: Work in progress
