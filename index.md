@@ -184,6 +184,9 @@ I know how to use project planning tools in teams but I use post-it notes for my
 Less important projects I've worked on.
 
 ![Rainbow](/assets/images/rainbow.png)
+<div style="text-align: center">
+  <a href="https://www.youtube.com/watch?v=VamCsnV-or4" target="_blank">Video</a>
+</div>
 ```
 Name: Rainbow
 Company: Krillbite
@@ -194,6 +197,9 @@ A SpatialOS game made in under a week for a norwegian game jam. It was later use
 
 <hr>
 ![Gas Simulation](/assets/images/gas.png)
+<div style="text-align: center">
+  <a href="https://github.com/polartron/gas-flow" target="_blank">Github</a>
+</div>
 ```
 Name: Gas Simulation
 Status: Prototype
@@ -203,6 +209,9 @@ Inspired by how atmospherics was simulated in Space Station 13 I decided to make
 
 <hr> 
 ![Flow Fields](/assets/images/flowfields.png)
+<div style="text-align: center">
+  <a href="https://github.com/polartron/FlowFields" target="_blank">Github</a>
+</div>
 ```
 Name: Flow Field Pathfinding
 Status: Prototype
