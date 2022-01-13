@@ -103,7 +103,7 @@ I like to write Unit Tests where it makes sense to write them. Procedural Progra
 <h3>
 Computer Science
 </h3>
-I know how computers work. I know how the CPU accesses memory and how to reduce cache misses in the L1 cache. I know basic assembly code and some of the optimizations you can do in order to produce highly efficent machine code. I've built a rack server back in 2010 for Counter Strike 1.6 which eventually turned into a bitcoin miner.
+I know how computers work. I know how the CPU accesses memory and how to reduce cache misses in the L1 cache. I know basic assembly code and some of the optimizations you can do in order to produce highly efficent machine code. I've built a rack server back in 2010 for Counter Strike 1.6 and Garry's Mod which eventually turned into a bitcoin miner.
 
 <h3>
 Lua
