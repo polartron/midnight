@@ -177,7 +177,8 @@ A SpatialOS game made in under a week for a norwegian game jam. It was later use
 <hr> 
 
 
-<hr> 
+<hr>
+![Gas Simulation](/assets/images/gas.png)
 ```
 Name: Gas Simulation
 Status: Prototype
