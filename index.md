@@ -164,7 +164,6 @@ I know how to use project planning tools in teams but I use post-it notes for my
 
 Less important projects I've worked on.
 
-<hr> 
 ![Rainbow](/assets/images/rainbow.png)
 ```
 Name: Rainbow
