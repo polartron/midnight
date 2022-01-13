@@ -22,15 +22,6 @@ Open Netcode is a server authoritative networking package for Unity DOTS. It con
 <hr> 
 
 ![Rock Paper Scissors Royale](/assets/images/rpsr.png)
-<details>
-  <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
 ```
 Name: Rock Paper Scissors Royale
 Status: Work in progress
@@ -42,7 +33,9 @@ Rock Paper Scissors Royale is a simple battle royale game with simple rules. You
 <hr>
 ![Mosaic](/assets/images/mosaic.png)
 <div style="text-align: center">
-  <a href="https://www.youtube.com/watch?v=yLuJ2WqwTJE">Trailer</a>
+  <a href="https://www.youtube.com/watch?v=yLuJ2WqwTJE" target="_blank">Trailer</a>
+   | 
+  <a href="https://www.mosaiccorp.biz/" target="_blank">Website</a>
 </div>
 ```
 Name: Mosaic
@@ -55,6 +48,11 @@ Mosaic is a weird dystopian story game about not wanting to go to work. I took o
 <hr> 
 
 ![Among the Sleep](/assets/images/amongthesleep.png)
+<div style="text-align: center">
+  <a href="https://www.youtube.com/watch?v=xx-JIfxHXGs" target="_blank">Trailer</a>
+   | 
+  <a href="http://www.amongthesleep.com/" target="_blank">Website</a>
+</div>a
 ```
 Name: Among the Sleep
 Status: Released
