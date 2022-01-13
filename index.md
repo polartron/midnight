@@ -173,9 +173,6 @@ When: 2017
 ```
 A SpatialOS game made in under a week for a norwegian game jam. It was later used in promotional videos by Improbable to promote their Unity SDK. 
 
-<hr> 
-
-
 <hr>
 ![Gas Simulation](/assets/images/gas.png)
 ```
