@@ -52,7 +52,7 @@ Mosaic is a weird dystopian story game about not wanting to go to work. I took o
   <a href="https://www.youtube.com/watch?v=xx-JIfxHXGs" target="_blank">Trailer</a>
    | 
   <a href="http://www.amongthesleep.com/" target="_blank">Website</a>
-</div>a
+</div>
 ```
 Name: Among the Sleep
 Status: Released
@@ -64,6 +64,9 @@ Among the Sleep is a horror game where you play as a two year old child and your
 <hr> 
 
 ![Size DOES Matter](/assets/images/sizedoesmatter.png)
+<div style="text-align: center">
+  <a href="https://www.youtube.com/watch?v=XskLH-hOQgs" target="_blank">Trailer</a>
+</div>
 ```
 Name: Size DOES Matter
 Status: Released. Removed from app stores when company shut down.
