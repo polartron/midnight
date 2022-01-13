@@ -118,7 +118,7 @@ I can write and modify simple scripts. In 2015 I used this to make a Raspberry P
 <h3>
 Javascript
 </h3>
-I've made some scripts with Tampermonkey and Node. In 2014 I made an arbitrage trading bot for a Dota 2 trading website and in 2020 I made a crypto arbitrage trading bot for an exchange without a trading API. When I worked in Krillbite I made a simple web server using express in node to collect editor logs, screenshots and performance logs when working on Mosaic.
+I've made some scripts with Tampermonkey and Node. In 2014 I made an arbitrage trading bot for a Dota 2 trading website and in 2020 I made a crypto arbitrage trading bot for an exchange without a trading API. When I worked on Mosaic I made a simple web server using express in node to collect editor logs, screenshots and performance logs from Unity.
 
 <h3>
 Shaders
