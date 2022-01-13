@@ -164,7 +164,6 @@ I know how to use project planning tools in teams but I use post-it notes for my
 
 Less important projects I've worked on.
 
-<hr> 
 ![Rainbow](/assets/images/rainbow.png)
 ```
 Name: Rainbow
@@ -177,7 +176,8 @@ A SpatialOS game made in under a week for a norwegian game jam. It was later use
 <hr> 
 
 
-<hr> 
+<hr>
+![Gas Simulation](/assets/images/gas.png)
 ```
 Name: Gas Simulation
 Status: Prototype
