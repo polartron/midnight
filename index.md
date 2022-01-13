@@ -39,6 +39,8 @@ Rock Paper Scissors Royale is a simple battle royale game with simple rules. You
   <a href="https://www.youtube.com/watch?v=yLuJ2WqwTJE" target="_blank">Trailer</a>
    | 
   <a href="https://www.mosaiccorp.biz/" target="_blank">Website</a>
+   | 
+  <a href="https://store.steampowered.com/app/349270/Mosaic/" target="_blank">Steam</a>
 </div>
 ```
 Name: Mosaic
@@ -55,6 +57,8 @@ Mosaic is a weird dystopian story game about not wanting to go to work. I took o
   <a href="https://www.youtube.com/watch?v=xx-JIfxHXGs" target="_blank">Trailer</a>
    | 
   <a href="http://www.amongthesleep.com/" target="_blank">Website</a>
+   | 
+  <a href="https://store.steampowered.com/app/250620/Among_the_Sleep__Enhanced_Edition/" target="_blank">Steam</a>
 </div>
 ```
 Name: Among the Sleep
