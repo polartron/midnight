@@ -153,7 +153,7 @@ I know git. I managed a Synology NAS with GitLab for Krillbite and I've used git
 <h3>
 Project Planning
 </h3>
-I know how to use project planning tools in teams but I use post-it notes for my own projects. I probably know how to use the planning tools you're using, maybe even intuitively, because I've been through a lot of them. Jira is the biggest one. In realty most of project planning tools gets in the way of actual development and progress so I try to be extremely pragmatic about it and only use what helps development. In most cases that is just a task list. Github Issues is great.
+I know how to use project planning tools in teams but I use post-it notes for my own projects. I probably know how to use the planning tools you're using, maybe even intuitively, because I've been through a lot of them. Jira is the biggest one. In realty most of project planning features gets in the way of actual development so I try to be  pragmatic about it and only use features that doesn't get in the way. In most cases that is just a task list. Github Issues is great.
 
 <hr>
 <h2>
