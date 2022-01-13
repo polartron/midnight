@@ -108,7 +108,7 @@ I know how computers work. I know how the CPU accesses memory and how to reduce 
 <h3>
 Lua
 </h3>
-I've made some things in Garry's Mod since 2006 and used Luabind for C++ in college.
+I've made a bunch of experimental scripts and gamemodes in Garry's Mod since 2006 and used Luabind for C++ in college.
 
 <h3>
 Python
