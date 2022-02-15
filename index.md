@@ -19,20 +19,7 @@ When: 2020-2022
 Role: Owner
 ```
 Open Netcode is a server authoritative networking package for Unity DOTS. It contains most of the knowledge I've learned over the years from studying Source Engine, Overwatch, Rocket League and countless articles and videos on the subject. It is the core package for best-practice multiplayer games made by Spillkaminen.
-<hr> 
 
-![Rock Paper Scissors Royale](/assets/images/rpsr.png)
-<div style="text-align: center">
-  <a href="https://www.youtube.com/watch?v=ch1ElCKoOEo" target="_blank">Video</a>
-</div>
-```
-Name: Rock Paper Scissors Royale
-Status: Work in progress
-Company: Spillkaminen
-When: 2021-2022
-Role: Owner
-```
-Rock Paper Scissors Royale is a simple battle royale game with simple rules. You are made out of rock, paper or scissors. When you touch something you can beat you become that new type. Fight your way to the center and become the last player standing. This game is made with Unity DOTS using Open Netcode.
 <hr>
 ![Mosaic](/assets/images/mosaic.png)
 <div style="text-align: center">
