@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-In 2005 I hosted a custom Counter Strike 1.6 server. From there until now I've modded, mapped, scripted, tinkered, programmed and released some games.
+In 2005 I hosted a custom Counter Strike 1.6 server. Since then I've modded, mapped, scripted, tinkered, programmed and released some games.
 
 I have 6+ years of game studio experience, multiple released projects and a broad range of programming knowledge.
 My current interest is the making of multiplayer games and netcode for multiplayer games.
