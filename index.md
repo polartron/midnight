@@ -28,6 +28,9 @@ Here's a list of companies and projects I've worked on.
 </h2>
 
 ![Open Netcode](/assets/images/netcode.png)
+<div style="text-align: center">
+  <a href="https://github.com/polartron/open-netcode" target="_blank">Github</a>
+</div>
 ```
 Name: Open Netcode
 Status: Work in progress
