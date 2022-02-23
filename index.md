@@ -16,7 +16,7 @@ Here's an overview of companies and projects I've worked on.
 | 2018  | Agens | Skate City |
 | 2019  | Hyper Games | Mosaic for iOS |
 | 2019-2020  | Snow Software  | Software Asset Management plugins |
-| 2020-2022  | Spillkaminen | Open Netcode, Bear Survival, Rock Paper Scissors Royale |
+| 2020-now  | Spillkaminen | Open Netcode, Bear Survival, Rock Paper Scissors Royale |
 | 2022 | Black Book Games | Prototyping and High Concept Design |
 
 <hr>
@@ -36,8 +36,19 @@ When: 2020-2022
 Role: Owner
 ```
 Open Netcode is an open source server authoritative networking package for Unity DOTS. I thought Unity's Netcode package was too complicated so I made my own in my own way. It is the core package for multiplayer games made by Spillkaminen.
-
 <hr>
+
+![Open Netcode](/assets/images/rpsr.png)
+```
+Name: Rock Paper Scissors Royale
+Status: Work in progress
+Company: Spillkaminen
+When: 2021-now
+Role: Owner
+```
+Rock Paper Scissors Royale is a battle royale game where you fight your way to the center of a shrinking arena using the rules of rock paper scissors. The game is made with Unity DOTS and Open Netcode.
+<hr>
+
 ![Mosaic](/assets/images/mosaic.png)
 <div style="text-align: center">
   <a href="https://www.youtube.com/watch?v=yLuJ2WqwTJE" target="_blank">Trailer</a>
