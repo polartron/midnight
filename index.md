@@ -223,3 +223,13 @@ When: 2015
 A game jam project about a sausage creature trying to escape from spikes coming from above. Get as far as possible.
 <hr> 
 
+| Year  | Company | Projects |
+| ------------- | ------------- |
+| 2013-2015  | DOS Studios | Size DOES Matter, Cube Cube |
+| 2015-2018  | Krillbite Studio | Among the Sleep, Mosaic |
+| 2018  | Improbable | SpatialOS Unity GDK Prototyping |
+| 2018  | Agens | Skate City |
+| 2019  | Hyper Games | Mosaic for iOS |
+| 2019-2020  | Snow Software  | Software Asset Management plugins |
+| 2020-2022  | Spillkaminen | Open Netcode, Bear Survival, Rock Paper Scissors Royale |
+| 2022 | Black Book Games | Prototyping and High Concept Design |
