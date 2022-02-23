@@ -1,7 +1,10 @@
 ---
 layout: default
 ---
-It all started with a Counter Strike 1.6 server in 2005. From there until now I've modded, mapped, scripted, tinkered, programmed and released some games. Here are some things I've worked on.
+In 2005 I hosted a custom Counter Strike 1.6 server. From there until now I've modded, mapped, scripted, tinkered, programmed and released some games.
+
+I have 6+ years of game studio experience, multiple released projects and a broad range of programming experience. 
+My current interest is the making of multiplayer games and netcode for multiplayer games.
 <hr>
 
 <h2>
@@ -18,7 +21,7 @@ Company: Spillkaminen
 When: 2020-2022
 Role: Owner
 ```
-Open Netcode is a server authoritative networking package for Unity DOTS. It contains most of the knowledge I've learned over the years from studying Source Engine, Overwatch, Rocket League and countless articles and videos on the subject. It is the core package for best-practice multiplayer games made by Spillkaminen.
+Open Netcode is an open source server authoritative networking package for Unity DOTS. I thought Unity's Netcode package was too complicated so I made my own in my own way. It is the core package for multiplayer games made by Spillkaminen.
 
 <hr>
 ![Mosaic](/assets/images/mosaic.png)
@@ -68,7 +71,7 @@ Company: DOS Studios
 When: 2013-2015
 Role: Programmer & CEO
 ```
-Size DOES Matter is a mobile game about rhythmically fitting inside different sized holes. We won a BAFTA for this one, got published by Channel 4 and had a month of free ads on UK television.
+Size DOES Matter is a mobile game about rhythmically fitting inside different sized holes. Channel 4 was our publisher and we won a BAFTA award for it in 2014.
 <hr>
 <h2>
   <p align="center">
@@ -83,14 +86,14 @@ My main language of choice and the one I'm the most proficient in. I've gone thr
 <h2>
 C/C++
 </h2>
-I haven't touched this in a couple of years but for the first 6 years this was the main language I did projects with. I used a bunch of libraries like boost, SFML, Box2D, glew, json-spirit and learned how absolutely awful it was to deal with project dependencies. It was the language that taught me about memory usage, stack vs heap and how pointers work. My biggest project in this language was a game made in school using an 
+I haven't touched this in a couple of years but for the first 6 years this was the main language I did projects with. I used a bunch of libraries like boost, SFML, Box2D, glew, json-spirit and luabind. It was the language that taught me about memory usage, stack vs heap and how pointers work. My biggest project in this language was a game made in school using an 
 <a href="https://github.com/ptrefall/propcomp">Entity Component Library by Pål Trefall</a>
 , SFML and Box2D.
 
 <h2>
 Networking in Games
 </h2>
-I have in depth knowledge on how the networking stack works down to how diffent types of packet headers are structured. I can tell you how TCP differs from UDP and why UDP should be used for high frequency multiplayer games. I've used tools like Wireshark, wpe-pro and XVI32 to reverse engineer the network protocol in the early days of Minecraft to make sponge spawning spambots back when creative mode was a thing. I've used jittering, congestion and lag-switching to gain an unfair advantage (for research purposes) in games like Planetside 2, Darkfall Online and other games that use *Clientside Authority* and/or *Tickless Simulation*. I know and have implemented techniques like delta compression and clientside prediction in Unity and I will keep expanding my knowledge by studying how great netcode is written and how bad netcode can be exploited (again, for research purposes).
+I'm very interested in how games implement their netcode so I know a lot about it. I know how to do low level implementations of methods like delta snapshots, prediction and lag compensation and how to boost performance of them using multithreading.
 
 <hr> 
 <h2>
@@ -105,11 +108,6 @@ Here are some other less important skills I have
 Unit Testing
 </h3> 
 I like to write Unit Tests where it makes sense to write them. Procedural Programming is by default very open to unit testing, but sometimes an integration test (or just watching the thing work) is enough. Pragmatic where it makes sense. Don't overdo it, but don't be fully exposed to regression either.
-
-<h3>
-Computer Science
-</h3>
-I know how computers work. I know how the CPU accesses memory and how to reduce cache misses in the L1 cache. I know basic assembly code and some of the optimizations you can do in order to produce highly efficent machine code. I've built a rack server back in 2010 for Counter Strike 1.6 and Garry's Mod which eventually turned into a bitcoin miner.
 
 <h3>
 Lua
@@ -134,12 +132,12 @@ I've written a few shaders. Most of them are technical shaders like using double
 <h3>
 Databases
 </h3>
-In high school and college I learned how MySQL works and how to write queries with PHP. I've used SQLite for some projects and I know how how to do simple things in phpmyadmin.
+In high school and college I learned MySQL and how to write queries with PHP. I've used SQLite for some projects.
 
 <h3>
 Encryption
 </h3>
-I wrote an RSA encrypted login server in college and went really deep into learning the mathematics of it. Today I slap OpenSSL on top of projects or use a third party authentication service like OAuth. 
+I wrote an RSA encrypted login server in college. Today I slap OpenSSL on top of projects or use a third party authentication service like OAuth. 
 
 <h3>
 Teaching
@@ -147,19 +145,14 @@ Teaching
 I've taught two college semesters of **Introduction to C# in Unity**. I've done workshops too.
 
 <h3>
-Presenting
-</h3> 
-Over the years I've done numerous talks on different topics including project scoping, idea development and data oriented programming.
-
-<h3>
 Source Control
 </h3>
-I know git. I managed a Synology NAS with GitLab for Krillbite and I've used git for most of my projects. I know about the other source control tools like Perforce, SVN, Plastic SCM and how they work but I haven't used them for big projects.
+I know git. I managed a Synology NAS with GitLab for Krillbite and I've used git for most of my projects.
 
 <h3>
 Project Planning
 </h3>
-I know how to use project planning tools in teams but I use post-it notes for my own projects. I probably know how to use the planning tools you're using, maybe even intuitively, because I've been through a lot of them. Jira is the biggest one. In realty most of project planning features gets in the way of actual development so I try to be  pragmatic about it and only use features that doesn't get in the way. In most cases that is just a task list. Github Issues is great.
+I know how to use project planning tools and techniques but I use post-it notes for my own projects.
 
 <hr>
 <h2>
@@ -213,7 +206,28 @@ Name: Floggy
 Status: Released on Google Play. Decayed and got removed.
 When: 2015
 ```
-Floggy was originally an one hour game jam project that turned into two days when we realized how fun it was. You control a sausage-creature in a downwards adventure to escape the squares chasing you from above. Get as far as possible. I wrote most of the code and made sounds by slapping wet toilet paper. 
+A game jam project about a sausage creature trying to escape from spikes coming from above. Get as far as possible.
 <hr> 
 
+<h2>
+  <p align="center">
+  Other
+  </p>
+</h2>
 
+| Year  | Company | Projects |
+| ------------- | ------------- |
+| 2013-2015  | DOS Studios  | Size DOES Matter, Cube Cube |
+| 2015-2018  | Krillbite Studios  | Among the Sleep, Mosaic |
+
+**2013-2015**: DOS Studios: Size DOES Matter, Cube Cube
+**2015-2018**: Krillbite Studios: Among the Sleep, Mosaic
+**2018**: Improbable: Unity GDK Prototyping.
+**2019**: Hyper Games: Mobile port of Mosaic.
+**2019-2020**: Snow Software: Plugins for their Software Asset Management software.
+**2020**: 
+
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
