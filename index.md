@@ -215,19 +215,13 @@ A game jam project about a sausage creature trying to escape from spikes coming 
   </p>
 </h2>
 
+An overview of companies and projects I've worked on.
+
 | Year  | Company | Projects |
 | ------------- | ------------- |
-| 2013-2015  | DOS Studios  | Size DOES Matter, Cube Cube |
-| 2015-2018  | Krillbite Studios  | Among the Sleep, Mosaic |
-
-**2013-2015**: DOS Studios: Size DOES Matter, Cube Cube
-**2015-2018**: Krillbite Studios: Among the Sleep, Mosaic
-**2018**: Improbable: Unity GDK Prototyping.
-**2019**: Hyper Games: Mobile port of Mosaic.
-**2019-2020**: Snow Software: Plugins for their Software Asset Management software.
-**2020**: 
-
-| Name     | Character |
-| ---      | ---       |
-| Backtick | `         |
-| Pipe     | \|        |
+| 2013-2015  | DOS Studios | Size DOES Matter, Cube Cube |
+| 2015-2018  | Krillbite Studios | Among the Sleep, Mosaic |
+| 2018  | Improbable | Unity GDK Prototyping |
+| 2019  | Hyper Games | Mosaic for iOS |
+| 2019-2020  | Snow Software  | Software Asset Management |
+| 2020-2022  | Spillkaminen | Open Netcode, Bear Survival, Rock Paper Scissors Royale |
