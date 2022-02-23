@@ -35,7 +35,7 @@ Company: Spillkaminen
 When: 2020-2022
 Role: Owner
 ```
-Open Netcode is an open source server authoritative networking package for Unity DOTS. I thought Unity's Netcode package was too complicated so I made my own in my own way. It is the core package for multiplayer games made by Spillkaminen.
+Open Netcode is an open source server authoritative networking package for Unity DOTS. I thought Unity's Netcode package was too complicated so I made my own in my own way. It is the main networking package I use for multiplayer games.
 <hr>
 
 ![Open Netcode](/assets/images/rpsr.png)
