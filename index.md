@@ -41,7 +41,10 @@ Role: Owner
 Open Netcode is an open source server authoritative networking package for Unity DOTS. I thought Unity's Netcode package was too complicated so I made my own in my own way. It is the main networking package I use for multiplayer games.
 <hr>
 
-![Open Netcode](/assets/images/rpsr.png)
+![Rock Paper Scissors Royale](/assets/images/rpsr.png)
+<div style="text-align: center">
+  <a href="https://www.youtube.com/watch?v=ch1ElCKoOEo" target="_blank">Video</a>
+</div>
 ```
 Name: Rock Paper Scissors Royale
 Status: Work in progress
