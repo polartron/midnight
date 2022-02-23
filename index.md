@@ -18,6 +18,7 @@ Here's an overview of companies and projects I've worked on.
 | 2019-2020  | Snow Software  | Software Asset Management plugins |
 | 2020-2022  | Spillkaminen | Open Netcode, Bear Survival, Rock Paper Scissors Royale |
 | 2022 | Black Book Games | Prototyping and High Concept Design |
+
 <hr>
 
 <h2>
