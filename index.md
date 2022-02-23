@@ -5,6 +5,18 @@ In 2005 I hosted a custom Counter Strike 1.6 server. From there until now I've m
 
 I have 6+ years of game studio experience, multiple released projects and a broad range of programming experience. 
 My current interest is the making of multiplayer games and netcode for multiplayer games.
+
+Here's an overview of companies and projects I've worked on.
+
+| Year  | Company | Projects |
+| ------------- | ------------- |
+| 2013-2015  | DOS Studios | Size DOES Matter, Cube Cube |
+| 2015-2018  | Krillbite Studio | Among the Sleep, Mosaic |
+| 2018  | Improbable | SpatialOS Unity GDK Prototyping |
+| 2019  | Hyper Games | Mosaic for iOS |
+| 2019-2020  | Snow Software  | Software Asset Management plugins |
+| 2020-2022  | Spillkaminen | Open Netcode, Bear Survival, Rock Paper Scissors Royale |
+| 2022 | Black Book Games | Prototyping and High Concept Design |
 <hr>
 
 <h2>
@@ -209,20 +221,3 @@ When: 2015
 A game jam project about a sausage creature trying to escape from spikes coming from above. Get as far as possible.
 <hr> 
 
-<h2>
-  <p align="center">
-  Other
-  </p>
-</h2>
-
-An overview of companies and projects I've worked on.
-
-| Year  | Company | Projects |
-| ------------- | ------------- |
-| 2013-2015  | DOS Studios | Size DOES Matter, Cube Cube |
-| 2015-2018  | Krillbite Studio | Among the Sleep, Mosaic |
-| 2018  | Improbable | Unity GDK Prototyping |
-| 2019  | Hyper Games | Mosaic for iOS |
-| 2019-2020  | Snow Software  | Software Asset Management |
-| 2020-2022  | Spillkaminen | Open Netcode, Bear Survival, Rock Paper Scissors Royale |
-| 2022 | Black Book Games | Prototyping and High Concept Design |
