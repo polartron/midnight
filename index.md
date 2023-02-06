@@ -18,7 +18,7 @@ Here's a list of companies and projects I've worked on.
 | 2019-2020  | Snow Software  | Software Asset Management plugins |
 | 2020-now  | Spillkaminen | Open Netcode, Bear Survival, Rock Paper Scissors Royale |
 | 2022 | Black Book Games | Prototyping and High Concept Design |
-| 2022-now | Raidho Games | Programmer on Astride |
+| 2022-now | Raidho Games | Programmer and Designer on Astride |
 
 <hr>
 
@@ -34,12 +34,12 @@ Here's a list of companies and projects I've worked on.
 </div>
 ```
 Name: Open Netcode
-Status: Work in progress
+Status: Abandoned
 Company: Spillkaminen
 When: 2020-2022
 Role: Owner
 ```
-Open Netcode is an open source server authoritative networking package for Unity DOTS. I thought Unity's Netcode package was too complicated so I made my own in my own way. It is the main networking package I use for multiplayer games.
+Open Netcode is an open source server authoritative networking package for Unity DOTS. I made this while Unity was still developing their Netcode for Entities, but dropped it as soon as they released DOTS 1.0.
 <hr>
 
 ![Rock Paper Scissors Royale](/assets/images/rpsr.png)
@@ -48,7 +48,7 @@ Open Netcode is an open source server authoritative networking package for Unity
 </div>
 ```
 Name: Rock Paper Scissors Royale
-Status: Work in progress
+Status: To be continued
 Company: Spillkaminen
 When: 2021-now
 Role: Owner
