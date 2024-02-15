@@ -181,7 +181,7 @@ I know git. I know PlasticSCM. I managed a Synology NAS with GitLab for Krillbit
 <h3>
 Project Planning
 </h3>
-I'm a programmer for video games so I hate all project planning tools. Agile is anti-productive. Gannt gives me an aneurysm. I will use a physical notepad for everything if I can and a physical kanban whiteboard at best.
+I like to use a physical notepad for everything and a physical kanban whiteboard at best. Game companies like to jump from one project planning tool to the next so I've been through a lot of them. They all do the same thing. 
 
 <hr>
 <h2>
