@@ -1,10 +1,7 @@
 ---
 layout: default
 ---
-In 2005 I hosted a custom Counter Strike 1.6 server. Since then I've modded, mapped, scripted, tinkered, programmed and released some games.
-
-I have 6+ years of game studio experience, multiple released projects and a broad range of programming knowledge.
-My current interest is the making of multiplayer games and netcode for multiplayer games.
+In 2005 I hosted a custom 24/7 Counter-Strike server. Since then, I’ve modded, mapped, scripted, tinkered, programmed and released some games for most platforms. I have over 10 years of game studio experience, multiple released projects and a broad range of programming knowledge. My current interest is the making of multiplayer games and the creation of communities within these games.
 
 Here's a list of companies and projects I've worked on.
 
@@ -71,7 +68,7 @@ Company: Krillbite Studio
 When: 2016-2018
 Role: Programmer & Lead Programmer
 ```
-Mosaic is a weird dystopian story game about not wanting to go to work. I took over the role as Lead Programmer in 2017 and made several core additions to the codebase as well as managing multiple team members and planning. 
+Mosaic is a weird dystopian story game about not wanting to go to work because you're depressed. I took over the role as Lead Programmer in 2017 and made several core additions to the codebase as well as managing multiple team members and planning. 
 <hr> 
 
 ![Among the Sleep](/assets/images/amongthesleep.png)
@@ -149,7 +146,7 @@ I've made a bunch of experimental scripts and gamemodes in Garry's Mod since 200
 <h3>
 Python
 </h3>
-I can write and modify simple scripts. In 2015 I used this to make a Raspberry PI powered robot on wheels and in 2019 I messed around with tensorflow for machine learning. 
+I've written a couple of discord bots in python and I keep messing around with tiny projects. I'm quick to get something up and running.
 
 <h3>
 Javascript
@@ -164,7 +161,7 @@ I've written a few shaders. Most of them are technical shaders like using double
 <h3>
 Databases
 </h3>
-In high school and college I learned MySQL and how to write queries with PHP. I've used SQLite for some projects.
+In high school and college I learned MySQL and how to write queries with PHP. I use MariaDB at the moment for my discord bots. 
 
 <h3>
 Encryption
@@ -179,12 +176,12 @@ I've taught two college semesters of **Introduction to C# in Unity**. I've done 
 <h3>
 Source Control
 </h3>
-I know git. I managed a Synology NAS with GitLab for Krillbite and I've used git for most of my projects.
+I know git. I know PlasticSCM. I managed a Synology NAS with GitLab for Krillbite and I've used git for most of my projects.
 
 <h3>
 Project Planning
 </h3>
-I know how to use project planning tools and techniques but I use post-it notes for my own projects.
+I'm a programmer for video games so I hate all project planning tools. Agile is anti-productive. Gannt gives me an aneurysm. I will use a physical notepad for everything if I can and a physical kanban whiteboard at best.
 
 <hr>
 <h2>
