@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-In 2005 I hosted a custom 24/7 Counter-Strike server. Since then, I’ve modded, mapped, scripted, tinkered, programmed and released games for most platforms. I have over 11 years of game studio experience, multiple released projects and a broad range of development skills. I like to game-jam and do little fun experiments.
+In 2005 I hosted a custom 24/7 Counter-Strike server with some of my own plugins. Since then, I’ve modded, mapped, scripted, tinkered, programmed and released games for most platforms. I have over 11 years of game studio experience, multiple released projects and a broad range of development skills. 
 
 Here are some of my highlights:
 
@@ -13,7 +13,7 @@ Here are some of my highlights:
 * Experience running playtests and QA testing through livestreams.
 * Experience porting to consoles and mobile devices.
 
-Here's a list of companies and projects I've worked on.
+Here's a list of companies and projects I've worked on:
 
 | Year  | Company | Projects |
 | ------------- | ------------- |
