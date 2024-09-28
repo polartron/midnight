@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-In 2005 I hosted a custom 24/7 Counter-Strike server. Since then, I’ve modded, mapped, scripted, tinkered, programmed and released some games for most platforms. I have over 11 years of game studio experience, multiple released projects and a broad range of game development knowledge.
+In 2005 I hosted a custom 24/7 Counter-Strike server. Since then, I’ve modded, mapped, scripted, tinkered, programmed and released games for most platforms. I have over 11 years of game studio experience, multiple released projects and a broad range of development skills. I like to game-jam and do little fun experiments.
 
 Here are some of my highlights:
 
 * Won a BAFTA award for my first released game.
-* Understands code performance, architecture and scalable code but understands when to be pragmatic.
+* Understands code performance, architecture and scalable code.
 * Understands and have developed high performance rollback netcode for multiplayer games.
-* Have taught two semesters of introduction to Unity with C# and held multiple talks and workshops.
+* Have taught two semesters of introduction to Unity with C# and held multiple talks and workshops on different subjects.
 * Enjoys focusing on core game design to drive player engagement and increase player retention. Makes tangible high concept documents out of game ideas.
 * Experience running playtests and QA testing through livestreams.
 * Experience porting to consoles and mobile devices.
@@ -60,7 +60,7 @@ Company: Spillkaminen
 When: 2021-now
 Role: Owner
 ```
-Rock Paper Scissors Royale is a battle royale game where you fight your way to the center of a shrinking arena using the rules of rock paper scissors. The game is made with Unity DOTS and Open Netcode.
+Rock Paper Scissors Royale is a battle royale game where you fight your way to the center of a shrinking arena using the rules of rock paper scissors.
 <hr>
 
 ![Mosaic](/assets/images/mosaic.png)
@@ -110,7 +110,7 @@ Company: DOS Studios
 When: 2013-2015
 Role: Programmer & CEO
 ```
-Size DOES Matter is a mobile game about rhythmically fitting inside different sized holes. Channel 4 was our publisher and we won a BAFTA award for it in 2014.
+Size DOES Matter is a mobile game about rhythmically fitting inside different sized holes. Channel 4 was our publisher and we won a BAFTA award for it in 2014. This was the first game I worked on.
 <hr>
 <h2>
   <p align="center">
