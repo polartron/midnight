@@ -1,7 +1,19 @@
 ---
 layout: default
 ---
-In 2005 I hosted a custom 24/7 Counter-Strike server. Since then, I’ve modded, mapped, scripted, tinkered, programmed and released some games for most platforms. I have over 10 years of game studio experience, multiple released projects and a broad range of programming knowledge. My current interest is the making of multiplayer games and the creation of communities within these games.
+In 2005 I hosted a custom 24/7 Counter-Strike server. Since then, I’ve modded, mapped, scripted, tinkered, programmed and released some games for most platforms. I have over 11 years of game studio experience, multiple released projects and a broad range of game development knowledge.
+
+Here are some of my highlights:
+
+* Won a BAFTA award for my first released game.
+* Understands code performance, architecture and scalable code but understands when to be pragmatic.
+* Understands and have developed high performance rollback netcode for multiplayer games.
+* Have taught two semesters of introduction to Unity with C# and held multiple talks and workshops.
+* Enjoys focusing on core game design to drive player engagement and increase player retention.
+* Makes tangible high concept documents out of game ideas.
+* Experience with running playtests and QA testing through livestreams.
+* Experience porting to consoles and mobile devices.
+* Unity DOTS user.
 
 Here's a list of companies and projects I've worked on.
 
