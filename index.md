@@ -35,6 +35,56 @@ Here's a list of companies and projects I've worked on.
   </p>
 </h2>
 
+![Among the Sleep](/assets/images/amongthesleep.png)
+<div style="text-align: center">
+  <a href="https://www.youtube.com/watch?v=xx-JIfxHXGs" target="_blank">Trailer</a>
+   | 
+  <a href="http://www.amongthesleep.com/" target="_blank">Website</a>
+   | 
+  <a href="https://store.steampowered.com/app/250620/Among_the_Sleep__Enhanced_Edition/" target="_blank">Steam</a>
+</div>
+```
+Name: Among the Sleep
+Status: Released
+Company: Krillbite Studio
+When: 2015-2016
+Role: Programmer
+```
+Among the Sleep is a horror game where you play as a two year old child and your mother is missing. I was hired in the beginning of 2015 to do console porting to the Playstation 4 and Xbox One as well as upgrading the project from Unity 4 to Unity 5. I later did some initial work on the Nintendo Switch port and the enhanced edition of the game.
+<hr> 
+
+![Mosaic](/assets/images/mosaic.png)
+<div style="text-align: center">
+  <a href="https://www.youtube.com/watch?v=yLuJ2WqwTJE" target="_blank">Trailer</a>
+   | 
+  <a href="https://www.mosaiccorp.biz/" target="_blank">Website</a>
+   | 
+  <a href="https://store.steampowered.com/app/349270/Mosaic/" target="_blank">Steam</a>
+</div>
+```
+Name: Mosaic
+Status: Released
+Company: Krillbite Studio
+When: 2016-2018
+Role: Programmer & Lead Programmer
+```
+Mosaic is a weird dystopian story game about not wanting to go to work because you're depressed. I took over the role as Lead Programmer in 2017 and made several core additions to the codebase as well as managing multiple team members and planning. 
+<hr> 
+
+![Size DOES Matter](/assets/images/sizedoesmatter.png)
+<div style="text-align: center">
+  <a href="https://www.youtube.com/watch?v=XskLH-hOQgs" target="_blank">Trailer</a>
+</div>
+```
+Name: Size DOES Matter
+Status: Released
+Company: DOS Studios
+When: 2013-2015
+Role: Programmer & CEO
+```
+Size DOES Matter is a mobile game about rhythmically fitting inside different sized holes. Channel 4 was our publisher and we won a BAFTA award for it in 2014. This was the first game I worked on.
+<hr>
+
 ![Open Netcode](/assets/images/netcode.png)
 <div style="text-align: center">
   <a href="https://github.com/polartron/open-netcode" target="_blank">Github</a>
@@ -61,56 +111,6 @@ When: 2021-now
 Role: Owner
 ```
 Rock Paper Scissors Royale is a battle royale game where you fight your way to the center of a shrinking arena using the rules of rock paper scissors.
-<hr>
-
-![Mosaic](/assets/images/mosaic.png)
-<div style="text-align: center">
-  <a href="https://www.youtube.com/watch?v=yLuJ2WqwTJE" target="_blank">Trailer</a>
-   | 
-  <a href="https://www.mosaiccorp.biz/" target="_blank">Website</a>
-   | 
-  <a href="https://store.steampowered.com/app/349270/Mosaic/" target="_blank">Steam</a>
-</div>
-```
-Name: Mosaic
-Status: Released
-Company: Krillbite Studio
-When: 2016-2018
-Role: Programmer & Lead Programmer
-```
-Mosaic is a weird dystopian story game about not wanting to go to work because you're depressed. I took over the role as Lead Programmer in 2017 and made several core additions to the codebase as well as managing multiple team members and planning. 
-<hr> 
-
-![Among the Sleep](/assets/images/amongthesleep.png)
-<div style="text-align: center">
-  <a href="https://www.youtube.com/watch?v=xx-JIfxHXGs" target="_blank">Trailer</a>
-   | 
-  <a href="http://www.amongthesleep.com/" target="_blank">Website</a>
-   | 
-  <a href="https://store.steampowered.com/app/250620/Among_the_Sleep__Enhanced_Edition/" target="_blank">Steam</a>
-</div>
-```
-Name: Among the Sleep
-Status: Released
-Company: Krillbite Studio
-When: 2015-2016
-Role: Programmer
-```
-Among the Sleep is a horror game where you play as a two year old child and your mother is missing. I was hired in the beginning of 2015 to do console porting to the Playstation 4 and Xbox One as well as upgrading the project from Unity 4 to Unity 5. I later did some initial work on the Nintendo Switch port and the enhanced edition of the game.
-<hr> 
-
-![Size DOES Matter](/assets/images/sizedoesmatter.png)
-<div style="text-align: center">
-  <a href="https://www.youtube.com/watch?v=XskLH-hOQgs" target="_blank">Trailer</a>
-</div>
-```
-Name: Size DOES Matter
-Status: Released
-Company: DOS Studios
-When: 2013-2015
-Role: Programmer & CEO
-```
-Size DOES Matter is a mobile game about rhythmically fitting inside different sized holes. Channel 4 was our publisher and we won a BAFTA award for it in 2014. This was the first game I worked on.
 <hr>
 <h2>
   <p align="center">
