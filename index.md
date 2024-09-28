@@ -9,11 +9,9 @@ Here are some of my highlights:
 * Understands code performance, architecture and scalable code but understands when to be pragmatic.
 * Understands and have developed high performance rollback netcode for multiplayer games.
 * Have taught two semesters of introduction to Unity with C# and held multiple talks and workshops.
-* Enjoys focusing on core game design to drive player engagement and increase player retention.
-* Makes tangible high concept documents out of game ideas.
-* Experience with running playtests and QA testing through livestreams.
+* Enjoys focusing on core game design to drive player engagement and increase player retention. Makes tangible high concept documents out of game ideas.
+* Experience running playtests and QA testing through livestreams.
 * Experience porting to consoles and mobile devices.
-* Unity DOTS user.
 
 Here's a list of companies and projects I've worked on.
 
