@@ -1,37 +1,49 @@
 ---
 layout: default
 ---
-In 2005 I hosted a custom 24/7 Counter-Strike server with some of my own plugins. Since then, I’ve modded, mapped, scripted, tinkered, programmed and released games for most platforms. I have over 11 years of game studio experience, multiple released projects and a broad range of development skills. 
+As a seasoned game developer with over a decade of industry experience, I have contributed to numerous projects across various platforms, demonstrating a diverse skill set and a proven track record of success. My career highlights include:
 
-Here are some of my highlights:
+## Professional Achievements
 
-* Won a BAFTA award for my first released game.
-* Understands code performance, architecture and scalable code.
-* Understands and have developed high performance rollback netcode for multiplayer games.
-* Have taught two semesters of introduction to Unity with C# and held multiple talks and workshops on different subjects.
-* Enjoys focusing on core game design to drive player engagement and increase player retention. Makes tangible high concept documents out of game ideas.
-* Experience running playtests and QA testing through livestreams.
-* Experience porting to consoles and mobile devices.
+- **BAFTA Award Winner**: Received recognition for my debut released game
+- **Technical Expertise**: Proficient in code performance optimization, architecture design, and scalable code development
+- **Networking Specialist**: Developed high-performance rollback netcode for multiplayer games
+- **Educational Contributions**: Instructed two semesters of Unity with C# and conducted multiple workshops on various game development topics
+- **Game Design Focus**: Skilled in creating engaging core game mechanics to drive player retention and crafting comprehensive high-concept documents
+- **Quality Assurance**: Experienced in conducting playtests and QA testing through livestream sessions
+- **Multi-Platform Development**: Successfully ported games to consoles and mobile devices
 
-Here's a list of companies and projects I've worked on:
+## Professional Experience
 
-| Year  | Company | Projects |
-| ------------- | ------------- |
-| 2013-2015  | DOS Studios | Size DOES Matter, Cube Cube |
-| 2015-2018  | Krillbite Studio | Among the Sleep for PS4 & Xbox One, Mosaic |
-| 2018  | Improbable | SpatialOS Unity GDK Prototyping |
-| 2018  | Agens | Skate City |
-| 2019  | Hyper Games | Mosaic for iOS |
-| 2019-2020  | Snow Software  | Software Asset Management plugins |
-| 2020-now  | Spillkaminen | Open Netcode, Bear Survival, Rock Paper Scissors Royale |
-| 2022 | Black Book Games | Prototyping and High Concept Design |
-| 2022-now | Raidho Games | Programmer and Designer on Astride |
+| Period     | Company           | Notable Projects                                    |
+|------------|-------------------|-----------------------------------------------------|
+| 2020-Present | Spillkaminen      | Open Netcode, Bear Survival, Rock Paper Scissors Royale |
+| 2022-Present | Raidho Games      | Programmer and Designer on Astride                  |
+| 2022        | Black Book Games  | Prototyping and High Concept Design                 |
+| 2019-2020   | Snow Software     | Software Asset Management plugins                   |
+| 2018        | Improbable        | SpatialOS Unity GDK Prototyping                     |
+| 2015-2018   | Krillbite Studio  | Among the Sleep (PS4 & Xbox One), Mosaic            |
+| 2013-2015   | DOS Studios       | Size DOES Matter, Cube Cube                         |
+
+## Core Competencies
+
+- Game engine proficiency (Unity, Unity DOTS)
+- Programming languages (C#, C++, Python)
+- Multiplayer networking
+- Cross-platform development
+- Game design and prototyping
+- Performance optimization
+- Version control systems
+- Data oriented programming
+- Unit Testing
+
+My extensive experience spans from indie game development to working with established studios, showcasing adaptability and a comprehensive understanding of the game development lifecycle. I am committed to creating innovative and engaging gaming experiences while continuously expanding my skill set to meet the evolving demands of the industry.
 
 <hr>
 
 <h2>
   <p align="center">
-  Main Projects
+  Notable Projects
   </p>
 </h2>
 
@@ -50,7 +62,7 @@ Company: Krillbite Studio
 When: 2015-2016
 Role: Programmer
 ```
-Among the Sleep is a horror game where you play as a two year old child and your mother is missing. I was hired in the beginning of 2015 to do console porting to the Playstation 4 and Xbox One as well as upgrading the project from Unity 4 to Unity 5. I later did some initial work on the Nintendo Switch port and the enhanced edition of the game.
+A survival horror game ported to PS4 and Xbox One
 <hr> 
 
 ![Mosaic](/assets/images/mosaic.png)
@@ -68,7 +80,7 @@ Company: Krillbite Studio
 When: 2016-2018
 Role: Programmer & Lead Programmer
 ```
-Mosaic is a weird dystopian story game about not wanting to go to work because you're depressed. I took over the role as Lead Programmer in 2017 and made several core additions to the codebase as well as managing multiple team members and planning. 
+A dark adventure game developed for multiple platforms
 <hr> 
 
 ![Size DOES Matter](/assets/images/sizedoesmatter.png)
@@ -96,7 +108,7 @@ Company: Spillkaminen
 When: 2020-2022
 Role: Owner
 ```
-Open Netcode is an open source server authoritative networking package for Unity DOTS. I made this while Unity was still developing their Netcode for Entities, but dropped it as soon as they released DOTS 1.0.
+A networking solution for multiplayer games
 <hr>
 
 ![Rock Paper Scissors Royale](/assets/images/rpsr.png)
@@ -110,89 +122,7 @@ Company: Spillkaminen
 When: 2021-now
 Role: Owner
 ```
-Rock Paper Scissors Royale is a battle royale game where you fight your way to the center of a shrinking arena using the rules of rock paper scissors.
-<hr>
-<h2>
-  <p align="center">
-  Main Skills
-  </p>
-</h2>
-<h2>
-C#
-</h2>
-My main language of choice and the one I'm the most proficient in. I've gone through all the different stages of writing bad code, to knowing a lot of *coding principles* and overengineering my code, to finally landing on a more data oriented approach with procedural programming techniques. My current method of writing code in C# is to focus on the data transformation aspect of it and using object oriented programming as a support structure and a facade in order to keep the code flat, pragmatic and easy to use.
-
-<h2>
-C/C++
-</h2>
-I haven't touched this in a couple of years but for the first 6 years this was the main language I did projects with. I used a bunch of libraries like boost, SFML, Box2D, glew, json-spirit and luabind. It was the language that taught me about memory usage, stack vs heap and how pointers work. My biggest project in this language was a game made in school using an 
-<a href="https://github.com/ptrefall/propcomp">Entity Component Library by Pål Trefall</a>
-, SFML and Box2D.
-
-<h2>
-Networking in Games
-</h2>
-I'm very interested in how games implement their netcode so I know a lot about it. I know how to do low level implementations of methods like delta snapshots, prediction and lag compensation and how to boost performance of them using multithreading.
-
-<hr> 
-<h2>
-  <p align="center">
-  Other Skills
-  </p>
-</h2>
-Here are some other less important skills I have
-<br/>
-
-<h3>
-Unit Testing
-</h3> 
-I like to write Unit Tests where it makes sense to write them. Procedural Programming is by default very open to unit testing, but sometimes an integration test (or just watching the thing work) is enough. Pragmatic where it makes sense. Don't overdo it, but don't be fully exposed to regression either.
-
-<h3>
-Lua
-</h3>
-I've made a bunch of experimental scripts and gamemodes in Garry's Mod since 2006 and used Luabind for C++ in college.
-
-<h3>
-Python
-</h3>
-I've written a couple of discord bots in python and I keep messing around with tiny projects. I'm quick to get something up and running.
-
-<h3>
-Javascript
-</h3>
-I've made some scripts with Tampermonkey and Node. In 2014 I made an arbitrage trading bot for a Dota 2 trading website and in 2020 I made a crypto arbitrage trading bot for an exchange without a trading API. When I worked on Mosaic I made a simple web server using express in node to collect editor logs, screenshots and performance logs from Unity.
-
-<h3>
-Shaders
-</h3>
-I've written a few shaders. Most of them are technical shaders like using double buffering for water and melting snow, metaballs, or instancing of objects using compute buffers. I'm not so good at making things look pretty but I'm not calling myself an artist. 
-
-<h3>
-Databases
-</h3>
-In high school and college I learned MySQL and how to write queries with PHP. I use MariaDB at the moment for my discord bots. 
-
-<h3>
-Encryption
-</h3>
-I wrote an RSA encrypted login server in college. Today I slap OpenSSL on top of projects or use a third party authentication service like OAuth. 
-
-<h3>
-Teaching
-</h3>
-I've taught two college semesters of **Introduction to C# in Unity**. I've done workshops too.
-
-<h3>
-Source Control
-</h3>
-I know git. I know PlasticSCM. I managed a Synology NAS with GitLab for Krillbite and I've used git for most of my projects.
-
-<h3>
-Project Planning
-</h3>
-I like to use a physical notepad for everything and a physical kanban whiteboard at best. Game companies like to jump from one project planning tool to the next so I've been through a lot of them. They all do the same thing. 
-
+A multiplayer game based on the classic hand game
 <hr>
 <h2>
   <p align="center">
