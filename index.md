@@ -41,11 +41,7 @@ My extensive experience spans from indie game development to working with establ
 
 <hr>
 
-<h2>
-  <p align="center">
-  Notable Projects
-  </p>
-</h2>
+## Notable Projects
 
 ![Among the Sleep](/assets/images/amongthesleep.png)
 <div style="text-align: center">
@@ -124,13 +120,8 @@ Role: Owner
 ```
 A multiplayer game based on the classic hand game
 <hr>
-<h2>
-  <p align="center">
-  Other Projects
-  </p>
-</h2>
 
-Less important projects I've worked on.
+## Other Projects
 
 ![Rainbow](/assets/images/rainbow.png)
 <div style="text-align: center">
