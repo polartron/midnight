@@ -90,7 +90,7 @@ Company: DOS Studios
 When: 2013-2015
 Role: Programmer & CEO
 ```
-Size DOES Matter is a mobile game about rhythmically fitting inside different sized holes. Channel 4 was our publisher and we won a BAFTA award for it in 2014. This was the first game I worked on.
+Size DOES Matter is a mobile rhythm game. Channel 4 was our publisher and we won a BAFTA award for it in 2014.
 <hr>
 
 ![Open Netcode](/assets/images/netcode.png)
