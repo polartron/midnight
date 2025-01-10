@@ -18,28 +18,3 @@
   align-items: center;
   margin-bottom: 20px;
 }
-
-.location {
-  color: #fff; /* White text color for better visibility */
-  margin-bottom: 10px;
-}
-
-.social-links {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 10px;
-}
-
-.social-links a {
-  display: flex;
-  align-items: center;
-  text-decoration: none;
-  color: #fff; /* White text color for better visibility */
-}
-
-.social-links i {
-  margin-right: 5px;
-  font-size: 18px;
-  color: inherit; /* Inherit the original icon color */
-}
