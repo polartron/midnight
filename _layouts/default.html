@@ -23,11 +23,10 @@
 
       <section>
         <div id="title">
-          <h1>Trond Fasteraune</h1>
-          <img src="{{ '/assets/images/trond.jpg' | relative_url }}" alt="Trond Fasteraune" class="avatar">
-          <p>Makes Video Games</p>
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
           <div class="info-container">
-            <div class="location">Hamar, Norway</div>
+            <div class="location">Location: Hamar, Norway</div>
             <div class="social-links">
               <a href="https://www.linkedin.com/in/trond-fasteraune-9203bb33a/" target="_blank"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
               <a href="https://bsky.app/profile/polartron.bsky.social" target="_blank"><i class="fa-brands fa-bluesky"></i> Bluesky</a>
