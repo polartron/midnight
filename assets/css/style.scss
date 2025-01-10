@@ -2,3 +2,23 @@
 ---
 
 @import "jekyll-theme-midnight";
+
+.social-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.social-links a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #333;
+}
+
+.social-links i {
+  margin-right: 5px;
+  font-size: 18px;
+}
