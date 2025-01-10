@@ -18,3 +18,45 @@
   align-items: center;
   margin-bottom: 20px;
 }
+
+.location {
+  color: #fff; /* White text color for better visibility */
+  margin-bottom: 10px;
+}
+
+.social-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+.social-links a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #fff; /* White text color for better visibility */
+}
+
+.social-links i {
+  margin-right: 5px;
+  font-size: 18px;
+  color: inherit; /* Inherit the original icon color */
+}
+
+/* Optional: If you want to manually set icon colors */
+.social-links i.fa-linkedin {
+  color: #0A66C2; /* LinkedIn blue */
+}
+
+.social-links i.fa-mastodon {
+  color: #3088d4; /* Mastodon blue */
+}
+
+.social-links i.fa-github {
+  color: #181717; /* GitHub dark gray, but you can use #fff if needed */
+}
+
+.social-links i.fa-youtube {
+  color: #FF0000; /* YouTube red */
+}
