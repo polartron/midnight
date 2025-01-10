@@ -2,6 +2,15 @@
 ---
 
 @import "jekyll-theme-midnight";
+
+.avatar {
+  width: 100px; /* Adjust size as needed */
+  height: 100px;
+  border-radius: 50%; /* Makes the image circular */
+  margin: 10px 0; /* Adds some space around the avatar */
+  object-fit: cover; /* Ensures the image fits within the circular shape */
+}
+
 .info-container {
   display: flex;
   flex-direction: column;
