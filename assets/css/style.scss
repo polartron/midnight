@@ -3,12 +3,22 @@
 
 @import "jekyll-theme-midnight";
 
+.info-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.location {
+  margin-bottom: 10px;
+}
+
 .social-links {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
   justify-content: center;
-  margin-top: 20px;
+  gap: 10px;
 }
 
 .social-links a {
