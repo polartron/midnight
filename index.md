@@ -8,7 +8,7 @@ As a seasoned game developer with over a decade of industry experience, I have c
 - **BAFTA Award Winner**: Received recognition for my debut released game
 - **Technical Expertise**: Proficient in code performance optimization, architecture design, and scalable code development
 - **Networking Specialist**: Developed high-performance rollback netcode for multiplayer games
-- **Educational Contributions**: Instructed two semesters of Unity with C# and conducted multiple workshops on various game development topics
+- **Educational Contributions**: Instructed two semesters of Unity with C# and conducted multiple workshops on various game development topics such as project scoping, prototyping and data oriented programming
 - **Game Design Focus**: Skilled in creating engaging core game mechanics to drive player retention and crafting comprehensive high-concept documents
 - **Quality Assurance**: Experienced in conducting playtests and QA testing through livestream sessions
 - **Multi-Platform Development**: Successfully ported games to consoles and mobile devices
@@ -17,7 +17,7 @@ As a seasoned game developer with over a decade of industry experience, I have c
 
 | Period     | Company           | Notable Projects                                    |
 |------------|-------------------|-----------------------------------------------------|
-| 2020-2025   | Spillkaminen      | Open Netcode, Rock Paper Scissors Royale            |
+| 2020-2024   | Spillkaminen      | Open Netcode, Rock Paper Scissors Royale            |
 | 2022-2024   | Raidho Games      | Programmer and Designer on Astride                  |
 | 2022        | Black Book Games  | Prototyping and High Concept Design                 |
 | 2019-2020   | Snow Software     | Software Asset Management plugins                   |
@@ -54,10 +54,28 @@ My extensive experience spans from indie game development to working with establ
 Name: Among the Sleep
 Status: Released
 Company: Krillbite Studio
-When: 2015-2016
+When: 2015-2018
 Role: Programmer
 ```
-A survival horror game ported to PS4 and Xbox One
+A survival horror game ported to PS4 and Xbox One. 
+<hr> 
+
+![Astride](/assets/images/astride.png)
+<div style="text-align: center">
+  <a href="https://youtube.com/astridegame" target="_blank">Youtube</a>
+   | 
+  <a href="http://www.astride.no/" target="_blank">Website</a>
+   | 
+  <a href="https://store.steampowered.com/app/1754960/Astride/" target="_blank">Steam</a>
+</div>
+```
+Name: Astride
+Status: Early Access
+Company: Raidho Games
+When: Feb 2022-Dec 2024
+Role: Lead Programmer, Game Designer
+```
+A multiplayer horse care simulation game with a focus on realistic horse genetics, breeding and care.
 <hr> 
 
 ![Mosaic](/assets/images/mosaic.png)
@@ -75,7 +93,7 @@ Company: Krillbite Studio
 When: 2016-2018
 Role: Programmer & Lead Programmer
 ```
-A dark adventure game developed for multiple platforms
+A dark adventure game developed for multiple platforms.
 <hr> 
 
 ![Size DOES Matter](/assets/images/sizedoesmatter.png)
@@ -120,7 +138,7 @@ Role: Owner
 A multiplayer game based on the classic hand game
 <hr>
 
-## Other Projects
+## Other Game Related Projects
 
 ![Rainbow](/assets/images/rainbow.png)
 <div style="text-align: center">
@@ -166,4 +184,17 @@ Status: Released on Google Play. Decayed and got removed.
 When: 2015
 ```
 A game jam project about a sausage creature trying to escape from spikes coming from above. Get as far as possible.
+<hr> 
+
+## Unrelated Projects
+
+![ValueTron](/assets/images/valuetron.png)
+```
+Name: ValueTron - Deep Value Trading Dashboard
+Status: Prototype
+When: 2024-Now
+Role: Python Developer
+```
+A trading dashboard in python used to screen for deep value opportunities in the stock market. Based on Keith Gill aka Roaring Kitty's workflow.
+
 <hr> 
