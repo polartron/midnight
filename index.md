@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-As a seasoned game developer with over a decade of industry experience, I have contributed to numerous projects across various platforms, demonstrating a diverse skill set and a proven track record of success. My career highlights include:
+As a seasoned game developer with over a decade of industry experience, I have contributed to numerous projects across various platforms, demonstrating a diverse skill set and a proven track record. My career highlights include:
 
 ## Professional Achievements
 
@@ -17,8 +17,8 @@ As a seasoned game developer with over a decade of industry experience, I have c
 
 | Period     | Company           | Notable Projects                                    |
 |------------|-------------------|-----------------------------------------------------|
-| 2020-Present | Spillkaminen      | Open Netcode, Bear Survival, Rock Paper Scissors Royale |
-| 2022-Present | Raidho Games      | Programmer and Designer on Astride                  |
+| 2020-2025   | Spillkaminen      | Open Netcode, Rock Paper Scissors Royale            |
+| 2022-2024   | Raidho Games      | Programmer and Designer on Astride                  |
 | 2022        | Black Book Games  | Prototyping and High Concept Design                 |
 | 2019-2020   | Snow Software     | Software Asset Management plugins                   |
 | 2018        | Improbable        | SpatialOS Unity GDK Prototyping                     |
@@ -27,13 +27,12 @@ As a seasoned game developer with over a decade of industry experience, I have c
 
 ## Core Competencies
 
-- Game engine proficiency (Unity, Unity DOTS)
+- Game engine proficiency (Unity, Unity DOTS, Netcode for Entities)
 - Programming languages (C#, C++, Python)
 - Multiplayer networking
 - Cross-platform development
 - Game design and prototyping
 - Performance optimization
-- Version control systems
 - Data oriented programming
 - Unit Testing
 
