@@ -3,8 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
@@ -15,18 +14,24 @@
     <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
     {% include head-custom.html %}
   </head>
   <body>
 
     <div class="wrapper">
-
       <section>
         <div id="title">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           <hr>
-          <span class="credits left">Location: Hamar, Norway</a></span>
+          <span class="credits left">Location: Hamar, Norway</span>
+        </div>
+        <div class="social-links">
+          <a href="https://www.linkedin.com/in/trond-fasteraune-9203bb33a/" target="_blank"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
+          <a href="https://bsky.app/profile/polartron.bsky.social" target="_blank"><i class="fa-brands fa-mastodon"></i> Bluesky</a>
+          <a href="https://github.com/polartron/" target="_blank"><i class="fa-brands fa-github"></i> GitHub</a>
+          <a href="https://www.youtube.com/@GameDevPolarTron" target="_blank"><i class="fa-brands fa-youtube"></i> YouTube</a>
         </div>
         {{ content }}
       </section>
